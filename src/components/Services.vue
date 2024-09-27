@@ -7,7 +7,7 @@
           <h2>Our <span>Services</span></h2>
           <p>
             There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration
+            the majority have suffered alteration hiiii
             {{ getServiceByID(1) }}
           </p>
         </div>
